@@ -10,3 +10,5 @@ $('[data-toggle="slide-collapse"]').on('click', function() {
     $(".navbar-toggler").trigger("click");
     $(".menu-overlay").fadeOut(500);
   });
+
+  
